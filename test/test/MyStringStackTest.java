@@ -15,7 +15,6 @@ import stack.MyStringStack;
 
 public class MyStringStackTest extends TestCase {
 	private String s1, s2;
-	assertTrue( false );
 	
 	public MyStringStackTest(String name) {
 		super(name);
